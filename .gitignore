@@ -1,5 +1,6 @@
 /ISIC-2017
 /ISIC-2019
+/ISIC-2016
 /best_model_weights.h5
 /unet_20_epoch.h5
 *.h5
